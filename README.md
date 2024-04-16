@@ -1,4 +1,4 @@
-#Evaluating the impact of Weight Averaging Strategies in Federated Learning
+# Evaluating the impact of Weight Averaging Strategies in Federated Learning
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/6822833344vxhhpdyfgwbw#13f4d8
